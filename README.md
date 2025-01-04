@@ -17,5 +17,5 @@ Bootcamp CyberSecurity - Desafio Phishing
  - Acessando página falsa para realização do teste
  - Captura de credenciais.
 
-!(credenciais.png)
-!(site-clone.png)
+<img src="site-clone.png">
+<img src="credenciais.png">
